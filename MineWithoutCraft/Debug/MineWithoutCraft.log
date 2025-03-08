@@ -1,0 +1,33 @@
+﻿  blockarray3d.cpp
+  blockinfo.cpp
+  chunk.cpp
+  engine.cpp
+D:\Ecole\prog2d3d\MineWithoutCraft\MineWithoutCraft\engine.cpp(165,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+D:\Ecole\prog2d3d\MineWithoutCraft\MineWithoutCraft\engine.cpp(166,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  main.cpp
+  openglcontext.cpp
+  player.cpp
+D:\Ecole\prog2d3d\MineWithoutCraft\MineWithoutCraft\player.cpp(48,39): warning C4244: '-=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Ecole\prog2d3d\MineWithoutCraft\MineWithoutCraft\player.cpp(49,39): warning C4244: '-=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Ecole\prog2d3d\MineWithoutCraft\MineWithoutCraft\player.cpp(55,39): warning C4244: '+=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\Ecole\prog2d3d\MineWithoutCraft\MineWithoutCraft\player.cpp(56,39): warning C4244: '+=' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  texture.cpp
+  transformation.cpp
+  Génération de code en cours...
+  MineWithoutCraft.vcxproj -> D:\Ecole\prog2d3d\MineWithoutCraft\Debug\MineWithoutCraft.exe
